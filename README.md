@@ -1,4 +1,4 @@
-# Physics-Informed SYMBA — Pure Transformer
+# Foundation Models for Squared Amplitude Calculation
 
 A pure Transformer encoder-decoder for generating squared particle-physics
 scattering amplitudes |M|² from unsquared amplitudes M.
